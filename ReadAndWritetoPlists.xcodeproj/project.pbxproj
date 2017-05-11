@@ -14,6 +14,7 @@
 		6F0494551EC57AB3000CB379 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F0494531EC57AB3000CB379 /* LaunchScreen.storyboard */; };
 		6F0494601EC57AB3000CB379 /* ReadAndWritetoPlistsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F04945F1EC57AB3000CB379 /* ReadAndWritetoPlistsTests.swift */; };
 		6F04946B1EC57AB3000CB379 /* ReadAndWritetoPlistsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F04946A1EC57AB3000CB379 /* ReadAndWritetoPlistsUITests.swift */; };
+		6F0494791EC57AB3000CB379 /* myData.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6F0494781EC57AB3000CB379 /* myData.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		6F0494661EC57AB3000CB379 /* ReadAndWritetoPlistsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReadAndWritetoPlistsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F04946A1EC57AB3000CB379 /* ReadAndWritetoPlistsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadAndWritetoPlistsUITests.swift; sourceTree = "<group>"; };
 		6F04946C1EC57AB3000CB379 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F0494781EC57AB3000CB379 /* myData.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = myData.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				6F0494511EC57AB3000CB379 /* Assets.xcassets */,
 				6F0494531EC57AB3000CB379 /* LaunchScreen.storyboard */,
 				6F0494561EC57AB3000CB379 /* Info.plist */,
+				6F0494781EC57AB3000CB379 /* myData.plist */,
 			);
 			path = ReadAndWritetoPlists;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 			files = (
 				6F0494551EC57AB3000CB379 /* LaunchScreen.storyboard in Resources */,
 				6F0494521EC57AB3000CB379 /* Assets.xcassets in Resources */,
+				6F0494791EC57AB3000CB379 /* myData.plist in Resources */,
 				6F0494501EC57AB3000CB379 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
